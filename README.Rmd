@@ -82,8 +82,9 @@ write.table(means, "Subject_Activity_means.txt", row.names = FALSE)
 ```
 
 The dataframe is grouped by subject and activity. The means are then calculated for each subject and activity and saved to a new data table. This is then written to a file "Subject_Activity_means.txt."
-```{r}
-colnames(df2)
 
+```{r}
+colnames(means)
+#a list of the variable names
 ```
 
