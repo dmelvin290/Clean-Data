@@ -6,6 +6,8 @@ output:
   html_document: default
 ---
 
+This is a run through of the script that produces the tidy dataset "Subject_Activity_means.txt."
+
 ```{r}
 library(dplyr)
 download.file("https://d396qusza40orc.cloudfront.net/
