@@ -4,8 +4,8 @@
 colnames(means)
 #a list of the variable names
 ```
-The first variable refers to the subject performing the test.
-Activity refers to the actual activity performed.
+The first variable, "subjects," refers to the subject performing the test.
+ "Activity" refers to the actual activity performed.
 The remaining variables all refer to the sensor measurments.
 
 [1] "subjects"                            
